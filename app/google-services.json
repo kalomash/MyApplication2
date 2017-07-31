@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "917791630677",
+    "firebase_url": "https://myapplication2-d310a.firebaseio.com",
+    "project_id": "myapplication2-d310a",
+    "storage_bucket": "myapplication2-d310a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917791630677:android:ecec2ca8ce53bf82",
+        "android_client_info": {
+          "package_name": "com.example.admin.durban_tour_guild_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917791630677-ad2fbmuiebs7j2s9dahn2folpskn9nn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.durban_tour_guild_app",
+            "certificate_hash": "94ad778e327af217bffbf046a43c527141815df2"
+          }
+        },
+        {
+          "client_id": "917791630677-jj9c9jd17hftifqpmlk697kpo2fscd7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8l_Pdo-mCwS-WnQazp_7Ue_vSq9jVoqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917791630677-jj9c9jd17hftifqpmlk697kpo2fscd7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

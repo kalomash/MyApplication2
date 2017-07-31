@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Durban-Tour-Guild-App</string>
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_meseums">Museums</string>
+    <string name="category_nature_parts">Nature and Parts</string>
+    <string name="category_shore_excursions">Shore Excursions</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
